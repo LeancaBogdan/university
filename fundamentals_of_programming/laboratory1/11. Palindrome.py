@@ -3,9 +3,7 @@ Created on Oct 6, 2016
 
 @author: leancabogdan
 """
-
 import sys
-
 
 def is_palindrome(n):
     """

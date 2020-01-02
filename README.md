@@ -1,2 +1,2 @@
 # University
-Projects done for Computer Science Bachelors Degree at Babes-Bolyai University, Cluj-Napoca.
+This repository contains laboratory assignments done as part of my Bachelors in Computer Science studies
