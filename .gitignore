@@ -1,2 +1,13 @@
+# Python files
 .idea
 *.pyc
+
+# Visual Studio files
+*.vs*
+*.obj
+*.exe
+*.ilk
+*.log
+*.pdb
+*.tlog
+*.idb
