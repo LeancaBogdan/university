@@ -1,0 +1,1 @@
+The task of this practical exam was to implement the Hangman game
