@@ -1,0 +1,10 @@
+10,Yellow,100,5,fb.com
+15,Blue,200,10,yt.com
+7,Marshmallow,20,100 a.net
+20,Marine,300,5,b.ro
+25,Gray,750,9,d.net
+28,Black,500,100,e.me
+22,White,1000,50,white.net
+25,Leather,175,20,leat.com
+23,Orange,600,1,bau.com
+25,Metal,100,20,rockfm.ro
