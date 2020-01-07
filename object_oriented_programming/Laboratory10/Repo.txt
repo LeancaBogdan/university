@@ -1,0 +1,8 @@
+15,Blue,200,8,yt.com
+20,Marine,300,99,b.ro
+25,Gray,750,20,d.net
+28,Black,500,140,e.me
+22,White,1000,50,white.net
+25,Leather,175,125,leat.com
+23,Orange,600,50,bau.com
+25,Metal,100,20,rockfm.ro
