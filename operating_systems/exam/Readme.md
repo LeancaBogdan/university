@@ -1,0 +1,2 @@
+Write a C program that receives at least two numbers as parameters and computes the digit with the lowest number of appearances in all the numbers, but that appeared at least once.
+The processing of each input argument should be done on a separate thread.
