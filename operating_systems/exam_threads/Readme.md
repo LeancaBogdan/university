@@ -1,0 +1,2 @@
+Write a C program that receives at least three words as parameters and computes the number of vowels and the number of consonants present in each of the arguments.
+The processing of each input argument should be done on a separate thread, and the number of vowels and consonants should be represented as global variables.
